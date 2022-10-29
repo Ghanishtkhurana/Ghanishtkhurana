@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [github.com/Ghanishtkhurana](github.com/Ghanishtkhurana)
+- 👨‍💻 All of my projects are available at [github.com/Ghanishtkhurana](https://ghanishtkhurana.github.io/)
 
 - 💬 Ask me about **HTML CSS Vanilla Javascript**
 
