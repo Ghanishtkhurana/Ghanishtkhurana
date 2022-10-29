@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ghanishtkhurana9@gmail.com**
 
-- 📄 Here is my resume link [https://rb.gy/tl9pjm](https://rb.gy/tl9pjm)
+- 📄 Here is my resume link [https://rb.gy/tl9pjm](https://rb.gy/w6aofd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
